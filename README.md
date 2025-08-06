@@ -252,7 +252,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- University of Idaho Coeur d'Alene faculty for research guidance
 - Arduino community for protocol inspiration
 - Python serial communication library contributors
 
