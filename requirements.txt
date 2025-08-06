@@ -1,0 +1,4 @@
+pyserial>=3.5
+click>=8.0.0          # For better CLI handling
+colorama>=0.4.0       # For colored terminal output
+pyyaml>=6.0           # For configuration files (optional)
